@@ -10,33 +10,33 @@ Atualmente estou em busca de oportunidades em **Data Science**, com foco em **Ma
 
 ## ⚡ **Repositório Principal:**
 
-<div id="header" align="center">
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benzerinsio&repo=DataScience&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/benzerinsio/DataScience)
-</div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benzerinsio&repo=DataScience&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/benzerinsio/DataScience)
 
 ## 🚀 **Linguagens e Ferramentas:**
 
- #### 💻 **Uso diário:**  
- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter)  
- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)  
- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas)  
- ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)  
- ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)  
- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib)  
- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git)  
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub)  
- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
+## 🚀 **Linguagens e Ferramentas:**
+
+#### 💻 **Uso diário:**  
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter"></a>  
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"></a>  
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" alt="Pandas"></a>  
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" alt="NumPy"></a>  
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></a>  
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib"></a>  
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git"></a>  
+<a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>  
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>  
 
 #### 📚 **Conhecimento básico:**  
- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL)  
- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)  
- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow)  
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL"></a>  
+<a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R"></a>  
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>  
 
 #### 🌱 **Estou aprendendo:**  
- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch)  
- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI)  
- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker)  
-
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch"></a>  
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI"></a>  
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"></a>  
 ---
 
 <div id="header" align="center">

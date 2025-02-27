@@ -15,36 +15,34 @@ Atualmente estou em busca de oportunidades em **Data Science**, com foco em **Ma
 ## 🚀 **Linguagens e Ferramentas:**
 
  #### 💻 **Uso diário:**  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
 
 #### 📚 **Conhecimento básico:**
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow)  
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=MySQL)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)  
 
 #### 🌱 **Estou aprendendo:**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)  
 
 ---
 
 <div id="header" align="center">
-  <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzerinsio&hide=html&layout=compact&theme=dark" />  
+  <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzerinsio&hide=html&layout=compact&theme=dark" />  <a href="https://github.com/benzerinsio/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=benzerinsio&show_icons=true&theme=dark&include_commits=true"/>
 </div>  
 
-#### *O que achou? Me conte!*  
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
-
- <a href="https://www.linkedin.com/in/felipe-sousa-20968017a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- <a href="mailto:felipevsousa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
- <a href="https://www.kaggle.com/benzerinsio" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>  
- <a href="https://felipevsousa.my.canva.site/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C4B4?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"></a>  
+#### *O que achou? Me conte!* <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<a href="https://www.linkedin.com/in/felipe-sousa-20968017a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:felipevsousa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.kaggle.com/benzerinsio" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+<a href="https://felipevsousa.my.canva.site/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C4B4?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"></a>  

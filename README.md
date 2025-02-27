@@ -40,9 +40,11 @@ Atualmente estou em busca de oportunidades em **Data Science**, com foco em **Ma
 <div id="header" align="center">
   <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzerinsio&hide=html&layout=compact&theme=dark" />  <a href="https://github.com/benzerinsio/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=benzerinsio&show_icons=true&theme=dark&include_commits=true"/>
 </div>  
+<div align="center">
 
-#### *O que achou? Me conte!* <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<a href="https://www.linkedin.com/in/felipe-sousa-20968017a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:felipevsousa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.kaggle.com/benzerinsio" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-<a href="https://felipevsousa.my.canva.site/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C4B4?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"></a>  
+ #### *O que achou? Me conte!* <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <a href="https://www.linkedin.com/in/felipe-sousa-20968017a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="mailto:felipevsousa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.kaggle.com/benzerinsio" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+ <a href="https://felipevsousa.my.canva.site/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C4B4?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"></a>  
+</div>

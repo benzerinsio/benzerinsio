@@ -8,9 +8,10 @@ Atualmente estou em busca de oportunidades em **Data Science**, com foco em **Ma
 
 🚀 **Sempre evoluindo:** Meu objetivo é ir além do básico, combinando criatividade e técnica para resolver problemas reais e inovar na área de IA.
 
-## ⚡ **Repositório Principal:**
+## ⚡ **Repositórios Principais:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benzerinsio&repo=DataScience&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/benzerinsio/DataScience)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benzerinsio&repo=EDA&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/benzerinsio/EDA)
 
 ## 🚀 **Linguagens e Ferramentas:**
 

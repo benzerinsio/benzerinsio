@@ -3,8 +3,6 @@ Atualmente estou em busca de oportunidades em **Data Science**, com foco em **Ma
 
 📊 **Meu portfólio reflete:**  
 - **Análise Exploratória de Dados (EDA):** Habilidades em limpeza e visualização de dados, identificação de padrões e correlações, além do uso de estatísticas descritivas. Ferramentas como Pandas, NumPy, Matplotlib e Seaborn são aplicadas para transformar dados brutos em insights acionáveis.  
-- **Machine Learning:** Domínio em construção de modelos preditivos e classificadores, otimização de hiperparâmetros, validação cruzada e avaliação de desempenho (métricas como acurácia, precisão e RMSE). Uso fluente de Scikit-Learn, além de implementação de algoritmos próprios como regressão linear, para resolver problemas reais.  
-- **Deep Learning:** Experiência em redes neurais profundas, processamento de imagens e texto, e desenvolvimento de sistemas complexos de recomendação e predição. Ferramentas como TensorFlow e PyTorch são aplicadas para criar modelos personalizados, incluindo NLP multilíngue, aprendizado por reforço e soluções em tempo real.  
 
 🚀 **Sempre evoluindo:** Meu objetivo é ir além do básico, combinando criatividade e técnica para resolver problemas reais e inovar na área de IA.
 
@@ -29,12 +27,6 @@ Atualmente estou em busca de oportunidades em **Data Science**, com foco em **Ma
 #### 📚 **Conhecimento básico:**
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)  
-
-#### 🌱 **Estou aprendendo:**
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)  
 
 ---
 

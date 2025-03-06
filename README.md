@@ -48,7 +48,7 @@ I’m currently seeking opportunities in **Data Science**, with a focus on **Mac
 </div>  
 <div align="center">
 
- #### *O que achou? Me conte!/ What did you think? Let me know!* <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ #### *O que achou? Me conte! / What did you think? Let me know!* <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <a href="https://www.linkedin.com/in/felipe-sousa-20968017a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:felipevsousa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.kaggle.com/benzerinsio" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>

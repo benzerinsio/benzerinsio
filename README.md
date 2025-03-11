@@ -1,10 +1,14 @@
 # Olá, eu sou Felipe Sousa! / Hello, I'm Felipe Sousa!
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Analyst+%F0%9F%93%8A+Transitioning+to+Data+Science+%26+AI+%F0%9F%A4%96+from+Brazil+..." alt="Typing SVG">
+</div>
+
 ## Sobre Mim (Português)  
-Atualmente estou em busca de oportunidades em **Data Science**, com foco em **Machine Learning**, enquanto trabalho em projetos que demonstram minhas habilidades e têm impacto no mundo real. Sou apaixonado por transformar dados em insights e criar modelos preditivos que abrem um universo de possibilidades. Estou sempre explorando novas tecnologias, desafiando meus conhecimentos e buscando evoluir para, um dia, construir meu próprio negócio em inteligência artificial com modelos desenvolvidos do zero por mim!
+Sou analista de dados em transição para **Data Science**, com foco em especialização em **Inteligência Artificial**. Atualmente, trabalho em projetos que combinam análise de dados e desenvolvimento de modelos preditivos, buscando sempre gerar impacto real a partir de insights valiosos. Apaixonado por explorar o potencial da IA, estou aprimorando minhas habilidades em Machine Learning e tecnologias emergentes, com o objetivo de criar soluções inovadoras e, futuramente, liderar meu próprio empreendimento na área de IA, construindo modelos do zero.
 
 ## About Me (English)  
-I’m currently seeking opportunities in **Data Science**, with a focus on **Machine Learning**, while working on projects that showcase my skills and make a real-world impact. I’m passionate about turning data into insights and building predictive models that unlock a world of possibilities. I’m constantly exploring new technologies, challenging my knowledge, and aiming to grow so that one day I can create my own AI business with models built from scratch!
+I’m a data analyst transitioning into **Data Science**, with a keen focus on specializing in **Artificial Intelligence**. Currently, I work on projects that blend data analysis with predictive modeling, aiming to deliver real-world impact through actionable insights. Passionate about unlocking the potential of AI, I’m sharpening my skills in Machine Learning and emerging technologies, with the long-term goal of leading my own AI venture, building innovative models from the ground up.
 
 ---
 
@@ -43,11 +47,22 @@ I’m currently seeking opportunities in **Data Science**, with a focus on **Mac
 
 ---
 
-<div id="header" align="center">
-  <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzerinsio&hide=html&layout=compact&theme=dark" />  <a href="https://github.com/benzerinsio/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=benzerinsio&show_icons=true&theme=dark&include_commits=true"/>
-</div>  
-<div align="center">
+### GitHub Stats
 
+<div align="center"> 
+  <a href="https://github.com/benzerinsio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benzerinsio&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzerinsio&layout=compact&show_icons=true&theme=github_dark" />
+  </a>
+</div>
+
+### GitHub Contributions
+<div align="center"> 
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=benzerinsio&background=141321&currStreakLabel=A9FEF6&sideLabels=A9FEF6&ring=D93B7D&dates=EBEBEB&sideNums=A9FEF6&currStreakNum=A9FEF6&border=EBEBEB00)](https://git.io/streak-stats) | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benzerinsio&theme=github_dark) |
+|---|---|
+</div>
+
+<div align="center"> 
  #### *O que achou? Me conte! / What did you think? Let me know!* <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <a href="https://www.linkedin.com/in/felipe-sousa-20968017a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:felipevsousa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

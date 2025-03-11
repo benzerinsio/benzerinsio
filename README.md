@@ -1,7 +1,7 @@
 # Olá, eu sou Felipe Sousa! / Hello, I'm Felipe Sousa!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Analyst+%F0%9F%93%8A+Transitioning+to+Data+Science+%26+AI+%F0%9F%A4%96+from+Brazil+..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Analyst+%F0%9F%93%8A+Transitioning+to+Data+Science+%26+AI+%F0%9F%A4%96+from+Brazil" alt="Typing SVG">
 </div>
 
 ## Sobre Mim (Português)  
@@ -57,12 +57,10 @@ I’m a data analyst transitioning into **Data Science**, with a keen focus on s
 </div>
 
 ### GitHub Contributions
-<div align="center"> 
+
 | [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=benzerinsio&background=141321&currStreakLabel=A9FEF6&sideLabels=A9FEF6&ring=D93B7D&dates=EBEBEB&sideNums=A9FEF6&currStreakNum=A9FEF6&border=EBEBEB00)](https://git.io/streak-stats) | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benzerinsio&theme=github_dark) |
 |---|---|
-</div>
 
-<div align="center"> 
  #### *O que achou? Me conte! / What did you think? Let me know!* <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <a href="https://www.linkedin.com/in/felipe-sousa-20968017a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:felipevsousa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

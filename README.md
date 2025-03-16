@@ -51,8 +51,8 @@ I’m a data analyst transitioning into **Data Science**, with a keen focus on s
 
 <div align="center"> 
   <a href="https://github.com/benzerinsio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benzerinsio&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzerinsio&layout=compact&show_icons=true&theme=github_dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=benzerinsio&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzerinsio&layout=compact&show_icons=true&theme=github_dark" />
   </a>
 </div>
  

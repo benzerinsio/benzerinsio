@@ -76,19 +76,6 @@ Ideia → Prototipo com Claude Code → Supabase como backend → Deploy
 
 <div align="center">
 
-<!-- SNAKE ANIMATION — gerada pelo GitHub Actions (.github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benzerinsio/benzerinsio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benzerinsio/benzerinsio/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/benzerinsio/benzerinsio/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 **Tem uma ideia ou dor pra resolver? Me chama.**
 
 <a href="https://wa.me/5514988281471" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>

@@ -60,6 +60,20 @@ Ideia → Prototipo com Claude Code → Supabase como backend → Deploy
 
 ---
 
+## 🚀 Publicados
+
+> Em breve. Os primeiros estão a caminho.
+
+<!-- TEMPLATE — descomente e preencha quando publicar:
+| Produto | Plataforma | Link |
+|---|---|---|
+| **Nome do produto** | 🌐 Web | [Acessar](https://url.com) |
+| **Nome do app** | 📱 Android | [Google Play](https://play.google.com/...) |
+| **Nome do app** | 📱 iOS | [App Store](https://apps.apple.com/...) |
+-->
+
+---
+
 <div align="center">
 
 **Tem uma ideia ou dor pra resolver? Me chama.**

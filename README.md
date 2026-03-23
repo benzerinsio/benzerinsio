@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=E8A838&center=true&vCenter=true&width=800&height=60&lines=Ideia+hoje+%E2%86%92+produto+no+ar+amanh%C3%A3;Construo+coisas+que+resolvem+dores+reais;On+construit+ce+qui+manque+vraiment;Construimos+lo+que+a%C3%BAn+no+existe;Let%27s+build+something+that+matters." alt="Typing SVG" />
-
 </div>
 
 ---
@@ -53,8 +51,8 @@ Ideia → Prototipo com Claude Code → Supabase como backend → Deploy
 |---|---|---|
 | **CatálogoIQ** | Padronização de catálogos de produtos para distribuidores e atacadistas | 🔨 Desenvolvimento |
 | **Cuida Pets** | Gestão e cuidados para tutores e profissionais de pets | 🔨 Desenvolvimento |
-| **Roblox Tracker** | Acompanhamento de métricas e atividade em jogos Roblox | 🔨 Desenvolvimento |
 | **AIE** | Sistema administrativo interno para gestão de eventos esportivos | 🔨 Desenvolvimento |
+| **FazendaIQ** | Gestão equestre e manejo de haras com foco em produtividade e controle | 🔨 Desenvolvimento |
 | **Conselheiro Religioso** | Orientação e suporte baseado em princípios religiosos | 🗺️ Mapeado |
 | **BI Facilitator** | Business Intelligence acessível para quem não é analista | 🗺️ Mapeado |
 
@@ -62,15 +60,9 @@ Ideia → Prototipo com Claude Code → Supabase como backend → Deploy
 
 ## 🚀 Publicados
 
-> Em breve. Os primeiros estão a caminho.
-
-<!-- TEMPLATE — descomente e preencha quando publicar:
-| Produto | Plataforma | Link |
+| Produto | Descrição | Plataforma |
 |---|---|---|
-| **Nome do produto** | 🌐 Web | [Acessar](https://url.com) |
-| **Nome do app** | 📱 Android | [Google Play](https://play.google.com/...) |
-| **Nome do app** | 📱 iOS | [App Store](https://apps.apple.com/...) |
--->
+| [**RoPool**](https://ropool.com) 🕹️ | Dados em tempo real do ecossistema Roblox para mapeamento oportunidades e tendências | 🌐 Web |
 
 ---
 
